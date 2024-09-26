@@ -83,3 +83,18 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+Output:
+
+Inserted 10
+Inserted 20
+Inserted 30
+Stack elements: 30 20 10 
+Popped: 30
+Stack elements: 20 10 
+Top element: 20
